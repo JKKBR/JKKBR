@@ -28,6 +28,13 @@ Personalize cores, fontes e exporte seu mapa mental em PNG.
 
 ---
 
+### 🎮 [Mini Game: Explorador de Constelações](https://jkkbr.github.io/portfolio/minigame.html)
+Um jogo interativo onde cada planeta representa um projeto.  
+Clique para descobrir, veja fogos de artifício e leia mini resumos em balões mágicos.  
+No final, você explora todo o universo JKKBR! 🚀✨  
+
+---
+
 ## 🌐 Meu Portfólio Online
 Quer ver tudo isso reunido em uma vitrine digital?  
 👉 [Acesse o Portfólio Online](https://jkkbr.github.io/portfolio/)  

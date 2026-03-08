@@ -40,6 +40,12 @@ Ferramenta visual para criar diagramas com blocos conectados por setas.
 
 ---
 
+## 🌐 Meu Portfólio Online
+Além dos projetos individuais, você pode acessar meu portfólio completo:  
+👉 [Portfólio Online](https://jkkbr.github.io/portfolio/)
+
+---
+
 ## 📫 Contato
 - GitHub: [github.com/JKKBR](https://github.com/JKKBR)  
 - Email: jkkbrgithub@gmail.com  

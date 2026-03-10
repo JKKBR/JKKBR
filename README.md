@@ -2,42 +2,43 @@
 
 Bem-vindo ao meu laboratório digital!  
 Aqui não há limites entre código e imaginação: cada projeto é uma pequena constelação nesse universo de bits e pixels.  
-Este espaço é secundário, criado apenas para testar ideias malucas, experimentar tecnologias e brincar com a criatividade.  
+Este espaço é **secundário**, criado apenas para testar ideias malucas, experimentar tecnologias e brincar com a criatividade.
 
 ---
 
 ## 🚀 Quem sou eu?
 Um explorador curioso do mundo da programação.  
 Às vezes engenheiro de sonhos, outras vezes inventor de ferramentas improváveis.  
-Acredito que cada linha de código é como uma estrela: isolada parece pequena, mas juntas formam constelações inteiras de possibilidades.  
+Acredito que cada linha de código é como uma estrela: isolada parece pequena, mas juntas formam constelações inteiras de possibilidades.
 
 ---
 
 ## 🧩 Projetos em destaque
 
 ### ✨ [Crie Currículo Grátis](https://jkkbr.github.io/crie-curriculo-gratis/)
-Ferramenta prática para quem quer transformar experiências em um currículo profissional sem complicação.  
-Feito com **JavaScript** e **HTML**, é como uma impressora mágica de currículos online.  
+Ferramenta prática para transformar experiências em um currículo profissional sem complicação.  
+Agora com **quebra automática de páginas no PDF** e **importação completa de dados** (descrições, datas e status de cursos).  
+Feito com **JavaScript** e **HTML**, é como uma impressora mágica de currículos online.
 
 ---
 
 ### 🔮 [Gerador de Diagrama](https://jkkbr.github.io/gerador-de-diagrama/)
 Um editor visual para criar diagramas com blocos e setas.  
-Ideal para quem gosta de organizar ideias, planejar projetos ou simplesmente desenhar conexões entre pensamentos.  
-Personalize cores, fontes e exporte seu mapa mental em PNG.  
+Ideal para organizar ideias, planejar projetos ou simplesmente desenhar conexões entre pensamentos.  
+Personalize cores, fontes e exporte seu mapa mental em PNG.
 
 ---
 
 ### 🎮 [Mini Game: Explorador de Constelações](https://jkkbr.github.io/portfolio/minigame.html)
 Um jogo interativo onde cada planeta representa um projeto.  
 Clique para descobrir, veja fogos de artifício e leia mini resumos em balões mágicos.  
-No final, você explora todo o universo JKKBR! 🚀✨  
+No final, você explora todo o universo JKKBR! 🚀✨
 
 ---
 
 ## 🌐 Meu Portfólio Online
 Quer ver tudo isso reunido em uma vitrine digital?  
-👉 [Acesse o Portfólio Online](https://jkkbr.github.io/portfolio/)  
+👉 [Acesse o Portfólio Online](https://jkkbr.github.io/portfolio/)
 
 ---
 

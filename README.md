@@ -23,13 +23,6 @@ Feito com **JavaScript** e **HTML**, é como uma impressora mágica de currícul
 
 ---
 
-### 🛍️ [Brechó da Lucy](https://jkkbr.github.io/controle-estoque-brecho/)
-Uma vitrine digital para organizar e exibir produtos de forma simples e elegante.  
-Conta com login, painel administrativo, filtros de busca e cards com informações detalhadas (preço, estado e qualidade).  
-Feito com **HTML, CSS e JavaScript**, é um projeto que mistura utilidade prática com design limpo.
-
----
-
 ### 🔮 [Gerador de Diagrama](https://jkkbr.github.io/gerador-de-diagrama/)
 Um editor visual para criar diagramas com blocos e setas.  
 Ideal para organizar ideias, planejar projetos ou simplesmente desenhar conexões entre pensamentos.  
@@ -41,6 +34,13 @@ Personalize cores, fontes e exporte seu mapa mental em PNG.
 Um jogo interativo onde cada planeta representa um projeto.  
 Clique para descobrir, veja fogos de artifício e leia mini resumos em balões mágicos.  
 No final, você explora todo o universo JKKBR! 🚀✨
+
+---
+
+### 🛍️ [Brechó da Lucy](https://jkkbr.github.io/controle-estoque-brecho/)
+Uma vitrine digital para organizar e exibir produtos de forma simples e elegante.  
+Conta com login, painel administrativo, filtros de busca e cards com informações detalhadas (preço, estado e qualidade).  
+Feito com **HTML, CSS e JavaScript**, é um projeto que mistura utilidade prática com design limpo.
 
 ---
 

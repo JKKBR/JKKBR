@@ -7,9 +7,10 @@ Este espaço é **secundário**, criado apenas para testar ideias malucas, exper
 ---
 
 ## 🚀 Quem sou eu?
-Um explorador curioso do mundo da programação.  
-Às vezes engenheiro de sonhos, outras vezes inventor de ferramentas improváveis.  
-Acredito que cada linha de código é como uma estrela: isolada parece pequena, mas juntas formam constelações inteiras de possibilidades.
+Estudante de Técnico em Logística, apaixonado por transformar caos em organização.
+Para mim, cada estoque é um quebra-cabeça, cada rota é uma estratégia e cada entrega é uma missão cumprida.
+Acredito que logística não é só mover produtos, mas sim conectar pessoas, lugares e necessidades com eficiência e inteligência.
+Sou um explorador curioso desse universo, que vê cada fluxo como uma constelação: isolado parece pequeno, mas juntos formam redes inteiras de possibilidades.
 
 ---
 

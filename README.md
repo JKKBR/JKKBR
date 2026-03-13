@@ -44,6 +44,17 @@ Feito com **HTML, CSS e JavaScript**, é um projeto que mistura utilidade práti
 
 ---
 
+## Projetos Reais
+
+- **Brechó Lucy**  
+  [brecholucy.vercel.app](https://brecholucy.vercel.app)  
+  Site vitrine criado para ajudar na divulgação dos produtos de um brechó local em Maricá.  
+  O objetivo é facilitar a visualização dos itens disponíveis e permitir contato direto via WhatsApp, com retirada presencial e pagamento feito diretamente à vendedora (Pix ou dinheiro).
+
+
+---
+
+
 ## 🌐 Meu Portfólio Online
 Quer ver tudo isso reunido em uma vitrine digital?  
 👉 [Acesse o Portfólio Online](https://jkkbr.github.io/portfolio/)

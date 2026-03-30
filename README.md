@@ -57,7 +57,7 @@ Exportação em PNG e personalização de conexões.
 ---
 
 ## 🌐 Meu Portfólio Online
-Quer ver tudo isso reunido em uma vitrine digital?  
+
 👉 [Acesse o Portfólio Online](https://jkkbr.github.io/portfolio/)
 
 ---

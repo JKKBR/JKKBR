@@ -1,7 +1,7 @@
 # 🌌 Fabio Santos | Tecnologia Aplicada à Logística & Eficiência Operacional
 
 Bem-vindo ao meu espaço de desenvolvimento e inovação!
-Aqui, utilizo minha bagagem de ## 15 anos em Tecnologia da Informação ##  para construir soluções que conectam o mundo digital ao fluxo físico da logística moderna.
+Aqui, utilizo minha bagagem de **15 anos em Tecnologia da Informação** para construir soluções que conectam o mundo digital ao fluxo físico da logística moderna.
 
 ---
 

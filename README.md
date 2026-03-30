@@ -37,6 +37,9 @@ Visibilidade Total: redução de pontos cegos na operação de transporte.
 Decisão Baseada em Dados: uso de indicadores visuais para ajustes rápidos em rotas e escalas.
 Segurança Patrimonial: integração de protocolos de CFTV para mitigação de riscos e sinistros.
 
+## 🌐 Deploy e Acesso
+👉 [Acesse o simulador online](https://jkkbr.github.io/simulador-de-frota/)  
+
 ---
 
 📦 Sistema de Gestão de Inventário e Vitrine Digital - Artesanatos Lucia'S

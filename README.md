@@ -64,8 +64,10 @@ Quer ver tudo isso reunido em uma vitrine digital?
 
 📫 Contato e Conexões
 
-LinkdIn: https://linkedin.com/in/fabiofss/
+LinkdIn: [Fabiofss](https://linkedin.com/in/fabiofss/)
+
 Localização: Maricá - RJ
+
 E-mail Profissional: fabiofss@outlook.pt
 
 ✨ Este espaço é experimental. Alguns projetos são sérios, outros são apenas brincadeiras. Mas todos carregam a mesma essência: aprender, criar e se divertir com tecnologia.

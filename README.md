@@ -3,65 +3,32 @@
 Bem-vindo ao meu espaço de desenvolvimento e inovação!
 Aqui, utilizo minha bagagem de **15 anos em Tecnologia da Informação** para construir soluções que conectam o mundo digital ao fluxo físico da logística moderna.
 
+Este portfólio reúne projetos focados em **otimização de processos, monitoramento de ativos e inteligência operacional**.
+
 ---
 
 ## 🚀 Quem sou eu?
-Um explorador curioso do mundo da programação.  
-Às vezes engenheiro de sonhos, outras vezes inventor de ferramentas improváveis.  
-Acredito que cada linha de código é como uma estrela: isolada parece pequena, mas juntas formam constelações inteiras de possibilidades.
+Profissional com sólida experiência em infraestrutura de TI e suporte a operações críticas. Atualmente, curso **Técnico em Logística e Redes de Computadores, unindo tecnologia e gestão para resolver desafios reais de Supply Chain. Acredito que a eficiência de uma entrega começa na integridade dos dados e na visibilidade total da operação
 
 ---
 
-## 🧩 Projetos em destaque
+## 📦 Projetos em Destaque (Foco: Logística 4.0)
 
-🚚 LogiTrack: Simulador de Torre de Controle e Telemetria de Frotas
-Este projeto é uma plataforma de Business Intelligence (BI) e monitoramento em tempo real, que integra Logística, Redes de Computadores e Segurança Patrimonial (CFTV) para otimização de fluxos de transporte.
+🚚 **LogiTrack: Simulador de Torre de Controle e Telemetria**
+Plataforma de Business Intelligence (BI) e monitoramento em tempo real que integra Logística, Redes e Segurança Patrimonial (CFTV).
+Visibilidade Total: Rastreabilidade geográfica e status de ativos em tempo real (Leaflet.js).
+Gestão de KPIs: Dashboards dinâmicos com indicadores de performance, tempo de trânsito e SLAs de entrega (Chart.js).
+Segurança Operacional: Integração de protocolos de CFTV para prevenção de perdas e auditoria de carga.
 
-🎯 Objetivo Estratégico
-Demonstrar a aplicação prática da Logística 4.0, unindo o rastreamento geográfico à análise de dados operacionais e segurança de carga, visando a redução de ociosidade e o cumprimento de SLAs de entrega.
-
-🚀 Módulos e Funcionalidades Operacionais
-Rastreabilidade e Geofencing (Leaflet.js): monitoramento geográfico de ativos com visualização de rotas em tempo real e status de operação (rodando/parado).
-Gestão de Produtividade (Painel de Rotas): controle de tempos de operação, paradas programadas e status de cumprimento de entregas por veículo.
-Segurança Integrada e Prevenção de Perdas: interface de monitoramento de câmeras embarcadas e auditoria de vídeo para proteção da carga e do motorista.
-Torre de Controle / BI (Chart.js): dashboard com KPIs estratégicos (indicadores de desempenho), incluindo médias de entrega, verificações de segurança e tempo médio de trânsito.
-🛠️ Tecnologias e Infraestrutura
-O sistema foi desenvolvido utilizando tecnologias leves e escaláveis para garantir a rapidez no fluxo de dados:
-
-Frontend: HTML5, CSS3 (responsivo) e JavaScript (ES6+).
-Geolocalização: API Leaflet.js para mapeamento e roteirização.
-Data Viz: Chart.js para geração de gráficos de performance em tempo real.
-📈 Diferenciais para a Operação Logística
-Visibilidade Total: redução de pontos cegos na operação de transporte.
-Decisão Baseada em Dados: uso de indicadores visuais para ajustes rápidos em rotas e escalas.
-Segurança Patrimonial: integração de protocolos de CFTV para mitigação de riscos e sinistros.
-
-## 🌐 Deploy e Acesso
 👉 [Acesse o LogiTrack](https://jkkbr.github.io/simulador-de-frota/)  
 
 ---
 
-📦 Sistema de Gestão de Inventário e Vitrine Digital - Artesanatos Lucia'S
-Este projeto é uma solução real desenvolvida para um comércio local em Maricá/RJ, focada na modernização do fluxo de mercadorias e no controle rigoroso de estoque para operações de varejo.
-
-📋 Contexto Operacional
-O objetivo central foi substituir processos manuais por uma plataforma digital que garante a acuracidade do inventário e facilita a comunicação entre o estoque físico e o cliente final.
-
-⚙️ Funcionalidades com Foco em Logística
-Gestão de Entradas e Saídas: Painel administrativo restrito para cadastro e baixa de itens, permitindo o controle total do fluxo de mercadorias.
-Status de Disponibilidade (Prevenção de Ruptura): Sistema de sinalização (Disponível/Reservado/Vendido) que evita furos de estoque e conflitos de pedidos.
-Triagem e Picking Facilitado: Filtros inteligentes por estado e qualidade dos itens, agilizando a localização e separação dos produtos (processo de picking).
-Visibilidade de SKUs: Vitrine estruturada com informações detalhadas (preço, estado, descrição), servindo como um catálogo em tempo real para a gestão de demanda.
-🛠️ Tecnologias e Infraestrutura
-A escolha das tecnologias priorizou a confiabilidade e o acesso em nuvem:
-
-Supabase: Banco de Dados para sincronização de informações em tempo real.
-Cloudinary: Gestão de ativos e imagens dos produtos.
-JavaScript, HTML5 e CSS3: Desenvolvimento da interface responsiva focada na experiência do usuário (UX).
-📈 Resultados e Impacto
-Acuracidade: Redução de erros humanos no controle manual de estoque.
-Eficiência: Agilidade no atendimento ao cliente através do bloco de contato direto via WhatsApp.
-Modernização: Transformação de um negócio local em uma operação digitalmente ativa.
+📦 **Sistema de Gestão de Inventário - Artesanatos Lucia'S**
+Solução real desenvolvida para digitalizar o controle de estoque e fluxo de mercadorias de um comércio local em Maricá/RJ.
+Acuracidade de Inventário: Gestão de entradas, saídas e status de reserva para evitar rupturas de estoque.
+Gestão de SKUs: Vitrine estruturada para facilitar o processo de picking e identificação de produtos.
+Infraestrutura em Nuvem: Dados sincronizados em tempo real via Supabase e Cloudinary.
 
 🔗 Versões publicadas:  
 - [GitHub Pages](https://jkkbr.github.io/controle-estoque-brecho/)  
@@ -69,34 +36,13 @@ Modernização: Transformação de um negócio local em uma operação digitalme
 
 ---
 
-# Crie Currículo Grátis ✨
+🛠️ **Ferramentas e Utilidades Operacionais**
 
-O **Crie Currículo Grátis** é uma aplicação web desenvolvida para ajudar qualquer pessoa a montar seu currículo de forma rápida, prática e totalmente gratuita.  
-Com uma interface simples e intuitiva, você pode criar, visualizar e salvar seu currículo sem precisar instalar nada.
+#✨ Crie Currículo Grátis
+Aplicação web focada em impacto social, permitindo a criação de currículos profissionais otimizados para sistemas de leitura automática (ATS/IA).
 
----
+Exportação em PDF e backup de dados.
 
-## 🚀 Principais funcionalidades
-
-- **Criação rápida de currículos**: basta preencher seus dados e o sistema gera automaticamente o documento.  
-- **Interface amigável**: design limpo e fácil de usar, pensado para quem não tem experiência com ferramentas complexas.  
-- **Personalização**: escolha quais informações incluir e organize seu currículo da forma que preferir.  
-- **Exportação em PDF com quebra automática de páginas**: o conteúdo nunca é cortado, mesmo em currículos longos.  
-- **Backup e Importação**: salve seu currículo em formato `.txt` e importe novamente para continuar editando ou atualizar os dados.  
-- **Importação completa**: agora são restaurados também descrições de experiências, datas de início/fim e status de cursos (concluído ou cursando).  
-- **Compatibilidade com IA/ATS**: o conteúdo do currículo é totalmente legível por sistemas de análise automática (como Inteligência Artificial ou ATS), garantindo que suas informações sejam interpretadas corretamente.  
-- **Sem anúncios**: projeto aberto e gratuito, sem propagandas ou distrações.  
-- **Gratuito e acessível**: não exige cadastro, login ou pagamento é só entrar e usar.  
-
----
-
-## 🛠️ Tecnologias utilizadas
-- **JavaScript (78%)**
-- **HTML (22%)**
-
----
-
-## 🌐 Acesse agora
 👉 [Crie Currículo Grátis](https://jkkbr.github.io/crie-curriculo-gratis/)
 
 ---

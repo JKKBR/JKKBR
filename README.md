@@ -1,8 +1,7 @@
-# 🌌 Portfólio Experimental - JKKBR
+# 🌌 Fabio Santos | Tecnologia Aplicada à Logística & Eficiência Operacional
 
-Bem-vindo ao meu laboratório digital!  
-Aqui não há limites entre código e imaginação: cada projeto é uma pequena constelação nesse universo de bits e pixels.  
-Este espaço criado apenas para experimentar tecnologias e brincar com a criatividade.
+Bem-vindo ao meu espaço de desenvolvimento e inovação!
+Aqui, utilizo minha bagagem de ## 15 anos em Tecnologia da Informação ##  para construir soluções que conectam o mundo digital ao fluxo físico da logística moderna.
 
 ---
 
@@ -66,7 +65,7 @@ Modernização: Transformação de um negócio local em uma operação digitalme
 
 🔗 Versões publicadas:  
 - [GitHub Pages](https://jkkbr.github.io/controle-estoque-brecho/)  
-- [Vercel](https://artesanatoslucias.vercel.app/))
+- [Vercel](https://artesanatoslucias.vercel.app/)
 
 ---
 

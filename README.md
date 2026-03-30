@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu laboratório digital!  
 Aqui não há limites entre código e imaginação: cada projeto é uma pequena constelação nesse universo de bits e pixels.  
-Este espaço é secundário, criado apenas para testar ideias malucas, experimentar tecnologias e brincar com a criatividade.
+Este espaço criado apenas para experimentar tecnologias e brincar com a criatividade.
 
 ---
 

@@ -38,7 +38,7 @@ Infraestrutura em Nuvem: Dados sincronizados em tempo real via Supabase e Cloudi
 
 🛠️ **Ferramentas e Utilidades Operacionais**
 
-#✨ Crie Currículo Grátis
+✨ Crie Currículo Grátis
 Aplicação web focada em impacto social, permitindo a criação de currículos profissionais otimizados para sistemas de leitura automática (ATS/IA).
 
 Exportação em PDF e backup de dados.
@@ -47,55 +47,10 @@ Exportação em PDF e backup de dados.
 
 ---
 
-# Gerador de Diagramas
+📊 Gerador de Diagramas Operacionais
+Editor interativo para criação de fluxogramas e diagramas de processos, ideal para mapeamento de fluxos logísticos e arquitetura de redes.
 
-Um editor simples de diagramas feito em **HTML, CSS e JavaScript**.  
-Permite criar blocos (retângulos e círculos), conectar com setas direcionais, personalizar estilos e exportar em PNG.
-
----
-
-## ✨ Funcionalidades
-- Criar retângulos e círculos.
-- Mover blocos pelo espaço de trabalho.
-- Selecionar/deselecionar blocos.
-- Alterar cor individual de blocos com **SHIFT + clique**.
-- Renomear blocos com botão direito.
-- Conectar dois blocos com setas (linha + triângulo na ponta).
-- Excluir blocos selecionados.
-- Personalizar fonte global.
-- Alterar cor do texto dos blocos.
-- Alterar cor das setas.
-- Alterar cor do fundo do espaço de trabalho.
-- Exportar o diagrama como imagem PNG.
-
----
-
-## 🖱️ Comandos
-- **Clique simples:** Seleciona/deseleciona uma forma.  
-- **SHIFT + clique:** Abre seletor de cor para a forma.  
-- **Botão direito:** Renomeia o texto da forma.  
-- **Arrastar:** Move a forma pelo espaço.  
-- **Selecionar 2 formas:** Clique em duas formas e depois em *Conectar Selecionados* para criar seta (aponta para a última forma).  
-- **Excluir Selecionado:** Remove a forma escolhida.  
-- **Fonte:** Define a fonte global das formas.  
-- **Cor do texto:** Define a cor global do texto das formas.  
-- **Cor das setas:** Define a cor global das setas.  
-- **Cor do fundo:** Define a cor do espaço de trabalho.  
-- **Salvar em PNG:** Exporta o diagrama como imagem.  
-
----
-
-## 🚀 Como usar
-1. Abra o arquivo `diagrama.html` no navegador.  
-2. Use os botões para adicionar formas.  
-3. Personalize cores, fontes e conecte blocos.  
-4. Clique em **Salvar em PNG** para exportar seu diagrama.  
-
----
-
-## 📌 Observações
-- Os blocos têm largura mínima de **100px** e máxima de **200px**.  
-- Textos longos quebram automaticamente em múltiplas linhas quando atingem a largura máxima.  
+Exportação em PNG e personalização de conexões.
 
  [Acesse o Diagrama](https://jkkbr.github.io/gerador-de-diagrama/)
 
@@ -107,8 +62,10 @@ Quer ver tudo isso reunido em uma vitrine digital?
 
 ---
 
-## 📫 Contato
-- GitHub: [github.com/JKKBR](https://github.com/JKKBR)  
-- Email: jkkbrgithub@gmail.com  
+📫 Contato e Conexões
+
+[LinkedIn](https://linkedin.com/in/fabiofss/)
+Localização: Maricá - RJ
+E-mail Profissional: fabiofss@outlook.pt
 
 ✨ Este espaço é experimental. Alguns projetos são sérios, outros são apenas brincadeiras. Mas todos carregam a mesma essência: aprender, criar e se divertir com tecnologia.

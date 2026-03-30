@@ -38,7 +38,7 @@ Decisão Baseada em Dados: uso de indicadores visuais para ajustes rápidos em r
 Segurança Patrimonial: integração de protocolos de CFTV para mitigação de riscos e sinistros.
 
 ## 🌐 Deploy e Acesso
-👉 [Acesse o simulador online](https://jkkbr.github.io/simulador-de-frota/)  
+👉 [Acesse o LogiTrack](https://jkkbr.github.io/simulador-de-frota/)  
 
 ---
 

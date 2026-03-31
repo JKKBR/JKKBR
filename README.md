@@ -31,7 +31,7 @@ Gestão de SKUs: Vitrine estruturada para facilitar o processo de picking e iden
 Infraestrutura em Nuvem: Dados sincronizados em tempo real via Supabase e Cloudinary.
 
 🔗 Versões publicadas:  
-- [GitHub Pages](https://jkkbr.github.io/controle-estoque-brecho/)  
+- [GitHub Pages](https://jkkbr.github.io/sistema-de-gestao-inventario/)  
 - [Vercel](https://artesanatoslucias.vercel.app/)
 
 ---

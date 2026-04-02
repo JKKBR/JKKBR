@@ -15,9 +15,9 @@ Profissional com sólida experiência em infraestrutura de TI e suporte a opera�
 🚚 **LogiTrack: Simulador de Torre de Controle e Telemetria**
 
 Plataforma de monitoramento em tempo real que integra Logística, Redes e Segurança Patrimonial (CFTV).
-- Visibilidade Total: Rastreabilidade geográfica e status de ativos em tempo real (Leaflet.js).
-- Gestão de KPIs: Dashboards dinâmicos com indicadores de performance e SLAs de entrega (Chart.js).
-- Segurança Operacional: Integração de protocolos para prevenção de perdas e auditoria de carga.
+- **Visibilidade Total:** Rastreabilidade geográfica e status de ativos em tempo real (Leaflet.js).
+- **Gestão de KPIs:** Dashboards dinâmicos com indicadores de performance e SLAs de entrega (Chart.js).
+- **Segurança Operacional:** Integração de protocolos para prevenção de perdas e auditoria de carga.
 
 👉 [Acesse o LogiTrack](https://jkkbr.github.io/simulador-de-frota/)  
 
@@ -26,9 +26,9 @@ Plataforma de monitoramento em tempo real que integra Logística, Redes e Segura
 📦 **Sistema de Gestão de Inventário - Artesanatos Lucia'S**
 
  Solução funcional desenvolvida para digitalizar o controle de estoque e fluxo de mercadorias.
-- Acuracidade de Inventário: Gestão de entradas, saídas e status de reserva para evitar rupturas de estoque.
-- Gestão de SKUs: Estrutura otimizada para processos de picking e identificação de produtos.
-- Infraestrutura em Nuvem: Dados sincronizados via Supabase e Cloudinary.
+- **Acuracidade de Inventário:** Gestão de entradas, saídas e status de reserva para evitar rupturas de estoque.
+- **Gestão de SKUs:** Estrutura otimizada para processos de picking e identificação de produtos.
+- **Infraestrutura em Nuvem:** Dados sincronizados via Supabase e Cloudinary.
 
 🔗 Versões publicadas:  
 - [GitHub Pages](https://jkkbr.github.io/sistema-de-gestao-inventario/)  
@@ -39,9 +39,10 @@ Plataforma de monitoramento em tempo real que integra Logística, Redes e Segura
 🛠️ Automação e Conformidade de Dados
 
 ✨ OP-Flow-Validator (Poka-Yoke Digital)
-- Engine de padronização de dados operacionais focada em Compliance e integridade da informação.
-- Prevenção de Erros: Travas lógicas para garantir a qualidade de documentos técnicos e relatórios.
-- Interoperabilidade: Backup e importação via arquivos estruturados (.txt) para continuidade de processos.
+
+Engine de padronização de dados operacionais focada em Compliance e integridade da informação.
+- **Prevenção de Erros:** Travas lógicas para garantir a qualidade de documentos técnicos e relatórios.
+- **Interoperabilidade:** Backup e importação via arquivos estruturados (.txt) para continuidade de processos.
 
 👉 [OP-Flow-Validators](https://jkkbr.github.io/op-flow-validator/)
 

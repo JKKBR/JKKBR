@@ -36,14 +36,16 @@ Infraestrutura em Nuvem: Dados sincronizados em tempo real via Supabase e Cloudi
 
 ---
 
-🛠️ **Ferramentas e Utilidades Operacionais**
+🛠️ Automação e Conformidade de Dados
 
-✨ Crie Currículo Grátis
-Aplicação web focada em impacto social, permitindo a criação de currículos profissionais otimizados para sistemas de leitura automática (ATS/IA).
+✨ OP-Flow-Validator (Poka-Yoke Digital)
+Engine de padronização de dados operacionais focada em Compliance e integridade da informação.
 
-Exportação em PDF e backup de dados.
+Prevenção de Erros: Travas lógicas para garantir a qualidade de documentos técnicos e relatórios.
 
-👉 [Crie Currículo Grátis](https://jkkbr.github.io/crie-curriculo-gratis/)
+Interoperabilidade: Backup e importação via arquivos estruturados (.txt) para continuidade de processos.
+
+👉 [OP-Flow-Validators](https://jkkbr.github.io/op-flow-validator/)
 
 ---
 

@@ -13,6 +13,7 @@ Profissional com sólida experiência em infraestrutura de TI e suporte a opera�
 ## 📦 Projetos em Destaque (Foco: Logística 4.0)
 
 🚚 **LogiTrack: Simulador de Torre de Controle e Telemetria**
+
 Plataforma de monitoramento em tempo real que integra Logística, Redes e Segurança Patrimonial (CFTV).
 - Visibilidade Total: Rastreabilidade geográfica e status de ativos em tempo real (Leaflet.js).
 - Gestão de KPIs: Dashboards dinâmicos com indicadores de performance e SLAs de entrega (Chart.js).
@@ -23,6 +24,7 @@ Plataforma de monitoramento em tempo real que integra Logística, Redes e Segura
 ---
 
 📦 **Sistema de Gestão de Inventário - Artesanatos Lucia'S**
+
  Solução funcional desenvolvida para digitalizar o controle de estoque e fluxo de mercadorias.
 - Acuracidade de Inventário: Gestão de entradas, saídas e status de reserva para evitar rupturas de estoque.
 - Gestão de SKUs: Estrutura otimizada para processos de picking e identificação de produtos.

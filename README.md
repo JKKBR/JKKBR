@@ -67,6 +67,6 @@ Exportação em PNG e personalização de conexões.
 
 LinkdIn: [Fabiofss](https://linkedin.com/in/fabiofss/)
 
-Localização: Maricá - RJ
+Localização: Rio de Janeiro - RJ
 
 E-mail Profissional: fabiofss@outlook.pt

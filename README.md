@@ -44,7 +44,7 @@ Engine de padronização de dados operacionais focada em Compliance e integridad
 - **Prevenção de Erros:** Travas lógicas para garantir a qualidade de documentos técnicos e relatórios.
 - **Interoperabilidade:** Backup e importação via arquivos estruturados (.txt) para continuidade de processos.
 
-👉 [OP-Flow-Validators](https://jkkbr.github.io/op-flow-validator/)
+👉 [OP-Flow-Validators](curriculointeligente.vercel.app)
 
 ---
 

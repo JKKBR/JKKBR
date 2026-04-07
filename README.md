@@ -36,15 +36,31 @@ Plataforma de monitoramento em tempo real que integra Logística, Redes e Segura
 
 ---
 
-🛠️ Automação e Conformidade de Dados
+# Ferramenta Web Gratuita para Criação de Currículos Profissionais
 
-✨ OP-Flow-Validator (Poka-Yoke Digital)
+Ferramenta web gratuita para criação e personalização de currículos profissionais, desenvolvida para funcionar **100% no navegador**, sem necessidade de cadastro ou armazenamento externo.
 
-Engine de padronização de dados operacionais focada em Compliance e integridade da informação.
-- **Prevenção de Erros:** Travas lógicas para garantir a qualidade de documentos técnicos e relatórios.
-- **Interoperabilidade:** Backup e importação via arquivos estruturados (.txt) para continuidade de processos.
+## Recursos da Aplicação
+- **Formulários guiados** para preenchimento estruturado.
+- **Pré-visualização em tempo real** do currículo.
+- **Geração de PDF e TXT** prontos para envio.
+- **Assistente inteligente de adaptação à vaga**, que ajuda o usuário a alinhar o currículo aos requisitos de cada oportunidade e a sistemas ATS.
 
-👉 [OP-Flow-Validators](https://curriculointeligente.vercel.app)
+## Foco da Solução
+- Clareza na apresentação das informações.  
+- Controle total do conteúdo pelo usuário.  
+- Privacidade garantida (sem envio de dados para servidores externos).  
+- Qualidade textual e eficácia em processos seletivos.  
+
+## Objetivo do Projeto
+O projeto busca **democratizar o acesso a currículos profissionais**, apoiando:  
+- Estudantes.  
+- Profissionais em transição de carreira.  
+- Candidatos que precisam adaptar rapidamente seus currículos para diferentes vagas.  
+
+Tudo de forma **simples, acessível e gratuita**.
+
+👉 [Curriculo-for-ats](https://jkkbr.github.io/curriculo-for-ats/)
 
 ---
 

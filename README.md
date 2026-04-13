@@ -13,7 +13,7 @@ Atuo com visão prática sobre processos, priorizando organização, rastreabili
 
 Minha vivência em tecnologia me permite apoiar operações logísticas com maior controle de dados, padronização de rotinas e visão de processo, sempre respeitando a realidade do chão da operação.
 
-[Meu Currículo](https://jkkbr.github.io/currículo/) 
+[Meu Currículo](https://jkkbr.github.io/curriculo/)
 ---
 
 ## 🏭 Projetos em Destaque

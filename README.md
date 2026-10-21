@@ -46,6 +46,25 @@ O projeto reforça conceitos de inventário rotativo, rastreabilidade e integrid
 
 ---
 
+---
+
+### 🎓 CenariLog Academy – Plataforma de Desenvolvimento Profissional em Logística
+
+Plataforma web desenvolvida para apoiar estudantes e profissionais da logística em sua jornada de crescimento profissional, reunindo trilhas de aprendizagem, capacitação contínua e acompanhamento da evolução de competências.
+
+**Principais recursos:**
+- Organização da jornada de aprendizagem
+- Controle e acompanhamento de metas profissionais
+- Centralização de conteúdos voltados à logística
+- Apoio ao desenvolvimento de habilidades operacionais e analíticas
+
+🎯 Objetivo: proporcionar uma experiência estruturada de aprendizado, ajudando profissionais a desenvolver competências relevantes para as áreas de logística, operações, armazenagem e gestão de processos.
+
+🔗 Acesse a plataforma:
+- [CenariLog Academy](https://cenarilog-academy.vercel.app/)
+
+---
+
 ### 🧩 Ferramenta Web – Currículo para Sistemas ATS
 Ferramenta gratuita para criação e adaptação de currículos, com foco em processos seletivos reais e leitura por sistemas ATS (como Sólides).
 

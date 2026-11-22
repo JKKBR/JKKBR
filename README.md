@@ -235,3 +235,63 @@ Testar a solução
 Validar o resultado
         ↓
 Documentar e evoluir
+```
+
+Desenvolvimento assistido por IA, com revisão humana, validação prática e testes.
+
+---
+
+## Tecnologias e áreas de interesse
+
+### Desenvolvimento
+
+- HTML;
+- CSS;
+- JavaScript;
+- TypeScript;
+- React;
+- Next.js.
+
+### Dados, integrações e serviços
+
+- Supabase;
+- Cloudinary;
+- APIs;
+- JSON;
+- CSV;
+- Armazenamento local.
+
+### Bibliotecas e ferramentas
+
+- ExcelJS;
+- Zod;
+- Vitest;
+- Leaflet;
+- Chart.js;
+- jsPDF;
+- GitHub Actions;
+- Vercel.
+
+### Áreas de aplicação
+
+- Soluções digitais;
+- Automação;
+- Micro SaaS;
+- Inteligência artificial aplicada;
+- Logística;
+- Inventário;
+- Rastreabilidade;
+- Produtividade;
+- Tecnologia educacional.
+
+---
+
+## Contato
+
+- **Localização:** Maricá, Rio de Janeiro;
+- **E-mail:** [fabio@gratis.com.br](mailto:fabio@gratis.com.br);
+- **WhatsApp:** [Conversar pelo WhatsApp](https://wa.me/5521994013747);
+- **LinkedIn:** [linkedin.com/in/fabiofss](https://linkedin.com/in/fabiofss);
+- **Portfólio:** [ffssportfolio.vercel.app](https://ffssportfolio.vercel.app/).
+
+Estou aberto a oportunidades, colaborações e conversas sobre tecnologia, logística, produtos digitais, automação e soluções orientadas a necessidades reais.
